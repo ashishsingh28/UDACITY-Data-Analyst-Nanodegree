@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# Bank Data Exploration
 
 ## Dataset
 - Name: prosperLoanData.csv
